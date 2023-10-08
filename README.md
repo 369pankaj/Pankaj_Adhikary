@@ -1,5 +1,5 @@
 # Pankaj_Adhikary
-[Hello all, I am Pankaj Adhikary. I work in the field of computational biophysical chemistry. I am pursuing a Ph.D. at the Department of Chemistry, IIT Tirupati.]
+[Hello all, I am Pankaj Adhikary. I work in the field of computational biophysical chemistry. I am pursuing Ph.D. at the Department of Chemistry, IIT Tirupati.]
 
 ## Table of Contents
 
