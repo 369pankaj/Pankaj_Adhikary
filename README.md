@@ -6,3 +6,4 @@
 [About](#aboutme)
 - I am working on classical polarizable forcefields to understand the effect of polarizability in protein-co-solvent interaction
 - Also interested in using ML-based approaches
+- Interested in the [NVIDIA Alchemi Toolkit](https://github.com/NVIDIA/nvalchemi-toolkit/)
